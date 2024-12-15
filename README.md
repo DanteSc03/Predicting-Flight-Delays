@@ -66,3 +66,11 @@ The data is sourced from Kaggle under the dataset license provided by the upload
 
 ## 🙏 Acknowledgments
 Special thanks to [Giovamata](https://www.kaggle.com/giovamata) for making the dataset available on Kaggle.
+
+---
+
+Authored by [Dante Schranz](https://github.com/DanteSc03).
+
+--- 
+
+Feel free to modify this README.md to better fit your project or add any additional details!
